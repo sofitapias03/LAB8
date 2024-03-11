@@ -36,3 +36,4 @@ export const addProduct = (product) => {
 export const editProduct = (id, product) => {
 	// implement it using similar logic as addProduct function but use axios.put method
 };
+
